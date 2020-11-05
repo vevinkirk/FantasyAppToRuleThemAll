@@ -15,7 +15,7 @@ The Fantasy App to Rule Them All
 
 **Frontend framework**
 
-* React -> **Connor's preferred**
+* React -> **Connor's preferred** [x]
 * Angular
 * Vue
 
@@ -23,8 +23,8 @@ The Fantasy App to Rule Them All
 
 Pricing is relatively hidden on these sites, so it's tough to get an estimate for each one.
 
-* [SportsData](https://sportsdata.io/developers/getting-started)
-* [Yahoo Api](https://developer.yahoo.com/fantasysports/guide/)
+* [SportsData](https://sportsdata.io/developers/getting-started) [ data comes scrambled ]
+* [Yahoo Api](https://developer.yahoo.com/fantasysports/guide/) 
 * [Sportradar](https://developer.sportradar.com/)
 
 **Other thoughts**
