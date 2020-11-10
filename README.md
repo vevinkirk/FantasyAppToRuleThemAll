@@ -51,3 +51,9 @@ May be nice just to use something like material UI.
 * Trade
 * News
 * Messaging system
+
+
+
+**API CALL WORK SPORTS DATA.IO**
+**TODO**
+Need to use sessions to avoid calling with key every time. Add all functions into 1 file to call from head program.
